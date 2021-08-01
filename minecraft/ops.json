@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "uuid": "dc0e7fee-f79a-4c6d-aa98-6bbb08821afc",
+    "name": "Prefect",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "1b60114f-edf4-3793-8bb0-4127d72f9e4a",
+    "name": "reizeiz",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "4d67a42e-367f-3a08-9c36-c00bb60529b7",
+    "name": "Pre_Fect",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f56d4909-b5e9-3426-95ca-d96003d1fb0a",
+    "name": "desh228",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "9fdc5263-4804-3735-9ced-a4178c410f9e",
+    "name": "Pashka2223",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "2f51a098-1fa4-3b0b-b1eb-e81f368c965d",
+    "name": "pashka223",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
